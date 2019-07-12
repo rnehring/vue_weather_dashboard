@@ -14,6 +14,6 @@ export default {
  components: {
    'temp-var-chart': TempVarChart,
    'today-highlights': Highlights
- },
+ }
 }
 </script>
