@@ -22,6 +22,6 @@ export default {
     "uv-index": UVIndex,
     "visibility": Visibility,
     "wind-status": WindStatus,
-  },
+  }
 };
 </script>
