@@ -1,6 +1,6 @@
 // Import the dependencies and necessary modules
 import Vue from 'vue';
-import App from './App.vue';
+import App from './app.vue';
 import FusionCharts from 'fusioncharts';
 import Charts from 'fusioncharts/fusioncharts.charts';
 import Widgets from 'fusioncharts/fusioncharts.widgets';

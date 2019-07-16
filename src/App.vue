@@ -79,7 +79,7 @@
 </template>
 
 <script>
-import Content from './components/Content.vue';
+import Content from './components/content.vue';
 
 export default {
  name: 'app',
