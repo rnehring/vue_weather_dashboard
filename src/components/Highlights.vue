@@ -12,9 +12,9 @@
 </template>
 
 <script>
-import UVIndex from "./UVIndex.vue";
-import Visibility from "./Visibility.vue";
-import WindStatus from "./WindStatus.vue";
+import UVIndex from "./uvindex.vue";
+import Visibility from "./visibility.vue";
+import WindStatus from "./windStatus.vue";
 
 export default {
   props: ["highlights"],
@@ -25,3 +25,4 @@ export default {
   }
 };
 </script>
+ 

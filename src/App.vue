@@ -150,7 +150,7 @@ export default {
      Due to this, console throws up an error.
      The code is correct, the problem is with the API.
      May be later on I will add some padding to tackle missing values.
-     */
+     */ 
      var moment = require('moment-timezone'); // for handling date & time
      var decipher = new Date(timestamp * 1000);
      var human = moment(decipher)
